@@ -11,3 +11,4 @@ I denna uppgift ska vi ta med allt vi lärt oss inom Gränssnittdesign till webb
 ## Link
 
 [Repo](https://github.com/empafrontend/whacko-taco.git)
+[Server](https://empafrontend.github.io/whacko-taco/)
