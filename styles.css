@@ -1,0 +1,96 @@
+* { 
+    margin: 0;
+    padding: 0;
+}
+
+
+.header-div {
+    display: flex;
+    justify-content: center;
+    background-color: #FFDCAE;
+    padding: 72px;
+}
+
+.text-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 450px;
+    background-color: #FFDCAE;
+    text-align: center;
+    
+    
+}
+
+.taco1-div {
+    display: flex;
+    flex-direction: row;
+    background-color: #F1F5DF;
+    height: 559px;
+ 
+    
+}
+   
+.foodimg {
+    height: auto;
+    width: 50%;
+    object-fit: cover;
+
+}
+
+ .foodtext-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    text-align: center;
+}
+
+.taco2-div {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #F1F5DF;
+    height: 559px;
+}
+
+.footer-div {
+    display: flex;
+    justify-content: space-around;
+    height: 573px;
+    align-items: center;
+    text-align: center;
+    padding: 5rem;
+    background-color: #BAD4AA;
+}
+
+    h1 {
+        font-size: 85px;
+        color: #AE3D14;
+        padding-bottom: 1rem;
+       
+    }
+    h2 {
+        font-size: 30px;
+        color: #AE3D14;
+        padding: 2rem;
+    }
+    h3 {
+        font-size: 30px;
+        padding-bottom: 1rem;
+        color: #AE3D14;
+    }
+    h4 {
+        padding-top: 0.5rem;
+        font-weight: 800;
+        font-size: larger;
+        color: #AE3D14;
+    }
+    p {
+        font-weight: 500;
+        color: #AE3D14;
+    }
+
+    
+
+
+
