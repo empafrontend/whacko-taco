@@ -96,29 +96,33 @@ button {
 }
 
     h1 {
+        font-family: 'Cy';
         font-size: 85px;
         color: #AE3D14;
         padding-bottom: 1rem;
        
     }
     h2 {
+        font-family: 'Circular Std';
         font-size: 30px;
         color: #AE3D14;
         padding: 2rem;
     }
     h3 {
+        font-family: 'Cy';
         font-size: 30px;
         padding-bottom: 1rem;
         color: #AE3D14;
     }
     h4 {
+        font-family: 'Circular Std';
         padding-top: 0.8rem;
         font-weight: 800;
         font-size: 23px;
         color: #AE3D14;
     }
     p {
-    
+        font-family: 'Circular Std';
         font-weight: 600;
         color: #AE3D14;
     }
