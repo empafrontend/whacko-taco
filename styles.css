@@ -80,13 +80,14 @@
         color: #AE3D14;
     }
     h4 {
-        padding-top: 0.5rem;
+        padding-top: 0.8rem;
         font-weight: 800;
-        font-size: larger;
+        font-size: 23px;
         color: #AE3D14;
     }
     p {
-        font-weight: 500;
+    
+        font-weight: 600;
         color: #AE3D14;
     }
 
