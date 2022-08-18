@@ -79,6 +79,7 @@ input {
     margin: 0.5rem;
     border-radius: 0.5rem;
     border-style: none;
+    width: 35rem;
    
 }
 
@@ -86,7 +87,7 @@ button {
     padding: 0.5rem;
     margin-bottom: 2rem;
     margin-top: 1rem;
-    width: 6rem;
+    width: 12rem;
     border-radius: 0.5rem;
     border-style: none;
     background-color: #AE3D14;
