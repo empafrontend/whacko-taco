@@ -14,4 +14,4 @@ I denna uppgift ska vi ta med allt vi lärt oss inom Gränssnittdesign till webb
 
 <br>
 
-[Server](https://empafrontend.github.io/whacko-taco/)
+[Server](https://whackotaco.netlify.app/)
