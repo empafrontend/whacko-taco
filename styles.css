@@ -79,22 +79,29 @@ input {
     margin: 0.5rem;
     border-radius: 0.5rem;
     border-style: none;
-    width: 35rem;
+    width: 45rem;
+    color: #AE3D14;
    
 }
 
 button {
-    padding: 0.5rem;
+    padding: 1rem;
     margin-bottom: 2rem;
-    margin-top: 1rem;
+    margin-top: 1.5rem;
     width: 12rem;
     border-radius: 0.5rem;
     border-style: none;
     background-color: #AE3D14;
     color: white;
-    
 
 }
+
+::placeholder {
+    color: #AE3D14;
+    font-weight: 600;
+ 
+}
+
 
     h1 {
         font-family: 'Cy';
