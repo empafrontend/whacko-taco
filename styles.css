@@ -64,6 +64,37 @@
     background-color: #BAD4AA;
 }
 
+.booking-div {
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    padding-bottom: 8rem;
+    align-items: center;
+    text-align: center;
+    background-color: #BAD4AA;
+}
+
+input {
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 0.5rem;
+    border-style: none;
+   
+}
+
+button {
+    padding: 0.5rem;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+    width: 6rem;
+    border-radius: 0.5rem;
+    border-style: none;
+    background-color: #AE3D14;
+    color: white;
+    
+
+}
+
     h1 {
         font-size: 85px;
         color: #AE3D14;
