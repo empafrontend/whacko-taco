@@ -9,14 +9,15 @@
     display: flex;
     justify-content: center;
     background-color: #FFDCAE;
-    padding: 72px;
+    height: 72px;
+    padding-top: 0.5rem;
 }
 
 .text-div {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 450px;
+    height: 550px;
     background-color: #FFDCAE;
     text-align: center;
     
@@ -81,6 +82,7 @@ input {
     border-style: none;
     width: 45rem;
     color: #AE3D14;
+    background-color: #F1F5DF;
    
 }
 
@@ -105,7 +107,7 @@ button {
 
     h1 {
         font-family: 'Cy';
-        font-size: 85px;
+        font-size: 75px;
         color: #AE3D14;
         padding-bottom: 1rem;
        
@@ -135,14 +137,7 @@ button {
         color: #AE3D14;
     }
 
-    .bookingtext {
-        font-family: 'Cy';
-        padding-bottom: 0.5rem;
-        font-size: 35px;
-        font-weight: 500;
-        color: #AE3D14;
-    }
-
+ 
     
 
 
